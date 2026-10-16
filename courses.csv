@@ -1,0 +1,17 @@
+course_id,course_name,cohort_id,faculty_id,credits,requires_lab
+CS201,Data Structures & Algorithms,CSE-A,F01,3,false
+CS201L,DSA Practical Lab,CSE-A,F01,2,true
+CS202,Database Management Systems,CSE-A,F02,3,false
+CS203,Operating Systems,CSE-A,F04,3,false
+CS204,Discrete Mathematics,CSE-A,F06,3,false
+CS201-B,Data Structures & Algorithms,CSE-B,F01,3,false
+CS201L-B,DSA Practical Lab,CSE-B,F01,2,true
+CS202-B,Database Management Systems,CSE-B,F02,3,false
+CS203-B,Operating Systems,CSE-B,F04,3,false
+CS205-B,Computer Architecture,CSE-B,F06,3,false
+EC201,Signals & Systems,ECE-A,F03,3,false
+EC202,Analog Circuits,ECE-A,F03,3,false
+EC202L,Circuit Simulation Lab,ECE-A,F03,2,true
+ME201,Thermodynamics,ME-A,F05,3,false
+ME202,Fluid Mechanics,ME-A,F05,3,false
+ME203,Manufacturing Processes,ME-A,F05,3,false
