@@ -1,0 +1,5 @@
+cohort_id,cohort_name,size,department
+CSE-A,Computer Science Year 2 Section A,60,Computer Science
+CSE-B,Computer Science Year 2 Section B,55,Computer Science
+ECE-A,Electronics Year 2 Section A,50,Electronics Engineering
+ME-A,Mechanical Year 2 Section A,45,Mechanical Engineering
