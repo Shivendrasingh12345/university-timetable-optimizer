@@ -1,0 +1,7 @@
+room_id,room_name,capacity,is_lab,building
+R101,Lecture Hall 101,70,false,Science Block
+R102,Lecture Hall 102,65,false,Science Block
+R201,Classroom 201,60,false,Engineering Wing
+R202,Classroom 202,50,false,Engineering Wing
+LAB301,Computing Lab 1,60,true,Technology Tower
+LAB302,Hardware Lab 2,55,true,Technology Tower
