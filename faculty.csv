@@ -1,0 +1,7 @@
+faculty_id,name,department,max_hours_per_week,available_days
+F01,Dr. Alan Turing,Computer Science,16,Mon;Tue;Wed;Thu;Fri
+F02,Prof. Ada Lovelace,Computer Science,14,Mon;Tue;Wed;Thu
+F03,Dr. Claude Shannon,Electronics Engineering,16,Mon;Tue;Wed;Thu;Fri
+F04,Prof. Grace Hopper,Computer Science,12,Tue;Wed;Thu;Fri
+F05,Dr. James Watt,Mechanical Engineering,15,Mon;Tue;Wed;Thu;Fri
+F06,Prof. John von Neumann,Computer Science,14,Mon;Wed;Fri
